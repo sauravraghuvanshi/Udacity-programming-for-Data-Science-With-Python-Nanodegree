@@ -43,9 +43,9 @@ def get_filters():
     """Ask user to specify city(ies) and filters, month(s) and weekday(s).
 
     Returns:
-        (str) city - name of the city(ies) to analyze
-        (str) month - name of the month(s) to filter
-        (str) day - name of the day(s) of week to filter
+        (str) city -name of the city(ies) to analyze
+        (str) month -name of the month(s) to filter
+        (str) day -name of the day(s) of week to filter
     """
 
     print("\n\nLet's explore some US bikeshare data!\n")
