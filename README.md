@@ -31,6 +31,10 @@ In this project, the student had to make use of Python to explore data related t
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
 [Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Project-2).
+## Python Learning In The Course
+
+Check the link for my learning material.
+[Check this out](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-using-Python-Nanodegree/tree/master/Python%20practice%20code)
 
 #### Files Used
 
@@ -45,4 +49,14 @@ This program was written in Python (version 3.7.1) and relies on the following l
 
 * pandas==0.23.4
 * numpy==1.15.4
+
+## Project 3
+
+This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+
+### Project Submission
+
+The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+
+[Check My Project Submission](https://stuupesacin-my.sharepoint.com/:b:/g/personal/500068475_stu_upes_ac_in/EeTVL2r4ICBMjdWundLQgVoBVxliXApAvYtXSQ7fzbgd7A?e=Uazmmx).
 
