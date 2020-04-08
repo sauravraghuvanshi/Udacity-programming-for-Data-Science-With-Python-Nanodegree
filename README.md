@@ -43,6 +43,6 @@ The required files for running this program are:
 #### Requirements
 This program was written in Python (version 3.7.1) and relies on the following libraries:
 
-pandas==0.23.4
-numpy==1.15.4
+* pandas==0.23.4
+* numpy==1.15.4
 
