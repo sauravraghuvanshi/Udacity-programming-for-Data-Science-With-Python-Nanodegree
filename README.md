@@ -60,3 +60,5 @@ The Project Submission consisted in the filling of a template with all the Git c
 
 [Check My Project Submission](https://stuupesacin-my.sharepoint.com/:b:/g/personal/500068475_stu_upes_ac_in/EeTVL2r4ICBMjdWundLQgVoBVxliXApAvYtXSQ7fzbgd7A?e=Uazmmx).
 
+# My Certificate of Completion
+<img src="Images/Data Science.png" width="1000">
