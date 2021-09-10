@@ -15,8 +15,7 @@ For the presentation component, the student had to create four slides, and each 
 
 ### Project Submission
 
-[Check My Project Submission]
-(https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project%201/Project%201%20for%20Submission/Saurav%20Raghuvanshi%20SQL%20submission.pdf)
+[Check My Project Submission](https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project%201/Project%201%20for%20Submission/Saurav%20Raghuvanshi%20SQL%20submission.pdf)
 
 ### Question Sets
 
